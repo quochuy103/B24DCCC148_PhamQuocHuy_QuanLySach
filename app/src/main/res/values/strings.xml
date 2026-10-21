@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookManager</string>
+    <string-array name="book_categories">
+        <item>Văn học</item>
+        <item>Khoa học</item>
+        <item>Công nghệ</item>
+        <item>Kỹ năng sống</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
